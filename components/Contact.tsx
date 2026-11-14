@@ -1,4 +1,3 @@
-
 const socialLinks = [
   {
     name: "GitHub",
@@ -7,10 +6,11 @@ const socialLinks = [
   },
   {
     name: "LinkedIn",
-    username: "Connect with me",
-    url: "https://www.linkedin.com/feed/",
+    username: "linkedin.com/in/anshusaxena2307",
+    url: "https://www.linkedin.com/in/anshusaxena2307/",
   },
 ];
+
 
 export default function Contact() {
   return (
