@@ -22,7 +22,7 @@ const projects: Project[] = [
       "Structures",
       "Functions",
     ],
-    github: "https://github.com/anshu23705",
+    github: "https://github.com/anshu23705/-hospital-management-system-c",
   },
   {
     number: "02",
